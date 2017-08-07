@@ -1,5 +1,5 @@
 The thing to be considered here is not the value of the actual output.
-It is the trend or the pattern in the graph.
+It is the trend or the pattern prevelant in the graph.
 This is a very crude estimate.
 It is certainly very likely that historical stock prices have negligible or no impact on the future prices, but this definitely gives us a better shot than random guessing.
 Certain additional features like Sentiment Analysis, global changes should ideally improve the prediction.
